@@ -3,6 +3,8 @@
 ## Shifting Gears with Tableau in the Automotive Industry 🚗💨
 A Comprehensive Analysis of the Dashboard:
 
+![Tableau Dashboard](https://github.com/user-attachments/assets/7017105f-3af6-4ff4-baa4-31be823c0c79)
+
 The dashboard is divided into four main sections, each providing a unique perspective on the automotive industry. The sections are designed to be interactive, allowing users to explore the data in-depth and gain actionable insights.
 
 Section 1: Market Overview
@@ -34,4 +36,4 @@ Section 5: Interactive Analysis
 📊 Sales Analysis: An interactive table allowing users to analyze sales data by region, segment, fuel type, and transmission type.
 📈 Pricing Analysis: An interactive table allowing users to analyze pricing data by segment, fuel type, and transmission type.
 
--The project is intended to give a comprehensive overview of the car market.
+The project is intended to give a comprehensive overview of the car market.
